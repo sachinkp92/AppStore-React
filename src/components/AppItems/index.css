@@ -25,28 +25,26 @@
 }
 
 .app-image {
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   margin-bottom: 16px;
 }
 
 @media screen and (min-width: 768px) {
   .app-image {
-    width: 102px;
-    height: 102px;
+    width: 80px;
+    height: 80px;
   }
 }
 
 .app-name {
   color: #1e293b;
-  font-family: "Bree Serif";
   font-size: 16px;
   font-weight: 500;
 }
 
 @media screen and (min-width: 768px) {
   .app-name {
-    font-family: "Bree Serif";
-    font-size: 24px;
+    font-size: 20px;
   }
 }
